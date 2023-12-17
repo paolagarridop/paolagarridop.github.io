@@ -34,7 +34,7 @@ h1 {
 
 .seccion-clara {
   color: black;
-  background-color: #ff7c70;
+  background-color: #f3aba5;
 }
 
 .seccion-titulo {
@@ -55,6 +55,7 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
+  color: #b8267d;
 }
 
 .texto-negro {
@@ -118,7 +119,7 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #bf21c4;
+  background-color: #a35481;
 }
 
 .experiencia i {
@@ -133,6 +134,7 @@ h1 {
   font-size: 25px;
   font-weight: bold;
   margin: 10px 0;
+  color: #9f174d;
 }
 
 .badges-contenedor {
